@@ -9,7 +9,6 @@
   },
   "dependencies": {
     "es6-promise": "~1.0.0",
-    "http-server": "git+ssh://git@bitbucket.org:yocondo/http-server.git",
     "git-info": "git+ssh://git@bitbucket.org:yocondo/git-info.git"
   },
   "devDependencies": {
