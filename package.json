@@ -5,13 +5,13 @@
   "private": true,
   "repository": {
     "type": "git",
-    "url": "git://bitbucket.com/yocondo/status.git"
+    "url": "git://github.com/yocondo/status.git"
   },
   "dependencies": {
     "es6-promise": "~1.0.0",
-    "git-info": "git+ssh://git@bitbucket.org:yocondo/git-info.git"
+    "git-info": "yocondo/git-info"
   },
   "devDependencies": {
-    "coffee-script": "~1.7.1"
+    "coffee-script": "~1.8.0"
   }
 }
